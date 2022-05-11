@@ -1,0 +1,23 @@
+window:
+  dimensions:
+    columns: 110
+    lines: 30
+  decortions: full
+  dynamic_title: true
+scrolling:
+  history: 10000
+  multiplier: 3
+font:
+  size: 8.0
+window:
+  padding:
+    x: 10
+    y: 6
+  dynamic_padding: true
+cursor:
+  style: Beam
+  thickness: 0.2
+  unfocused_hollow: false
+  blink_interval: 750
+
+

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "coc-ccls": ">=0.0.5",
+    "coc-lua": ">=1.0.1"
+  }
+}
